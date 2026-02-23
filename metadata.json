@@ -1,0 +1,5 @@
+{
+  "name": "VayuNet – Predictive Environmental Intelligence Platform",
+  "description": "AI-Powered Hyperlocal Air Intelligence for Every Region. Predicting air quality before it becomes a crisis.",
+  "requestFramePermissions": ["geolocation"]
+}
